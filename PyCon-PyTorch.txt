@@ -1,0 +1,19 @@
+Backpropagation (gradient), weights initialization doubt?
+
+deep mind synthetic gradient - not waiting for whole epoch to update weights
+
+dynamic graph and static graph , debugging difference?
+
+-----------------------------------------------------------------------------
+
+NLL pixel level loss - UNet, Image augmentations
+
+Registration for eigen vector and double differentiation - in C++
+
+3D UNet for MOdelling
+
+difference between model.cuda(), variable.cuda()
+
+Take data foe Workshop
+
+
